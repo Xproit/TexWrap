@@ -1,5 +1,7 @@
 ### TexWrap README
 
+[English-README](https://github.com/Xproit/TexWrap/blob/main/Docs/En-README.md)
+
 #### 基本语法
 
 ```
